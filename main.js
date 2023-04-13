@@ -11,6 +11,7 @@ function Calculate() {
     alert("O'ylab yozing 😊");
   }
 }
+
 function Clear() {
   outputScreen.value = "";
 }
